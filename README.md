@@ -77,7 +77,7 @@ To set up the project locally, follow these steps:
 1.  **Clone the repository:**
 
     ```bash
-    git clone [https://github.com/VishaL6i9/crime-prediction-analysis-ml.git](https://github.com/VishaL6i9/crime-prediction-analysis-ml.git)
+    git clone https://github.com/VishaL6i9/crime-prediction-analysis-ml.git
     cd crime-prediction-analysis-ml
     ```
     
